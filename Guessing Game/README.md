@@ -14,7 +14,7 @@ This is a simple C++ program that allows you to play a guessing game and keeps t
 - If this file doesn't exist, it will be created the first time the program saves the high scores.
 
 ## Modifying the Program
-- If you want to modify the program, you can edit the source code in the guessing_game.cpp file. Here are some things you might want to change:
+- If you want to modify the program, you can edit the source code in the guessgame.cpp file. Here are some things you might want to change
 - The range of the random number. You can modify the rand() % 10 + 1 expression to generate a random number in a different range.
 - The high scores file name or location. You can modify the writeHighScores() function to write the high scores to a different file, or change the file name in the ifstream and ofstream constructors.
 - The way the high scores are displayed. You can modify the displayHighScores() function to change the format of the high scores output.
