@@ -51,11 +51,11 @@ int main() {
 
     displayHighScores(scores);
 
-    int randomNumber = rand() % 100 + 1;  // Generate a random number between 1 and 100
+    int randomNumber = rand() % 10 + 1;  // Generate a random number between 1 and 10
     int guess;
     int attempts = 0;
 
-    cout << "Welcome to the guessing game! Try to guess the number between 1 and 100." << endl;
+    cout << "Welcome to the guessing game! Try to guess the number between 1 and 10." << endl;
 
     do {
         cout << "Enter your guess: ";
