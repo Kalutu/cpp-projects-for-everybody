@@ -6,6 +6,7 @@ The following projects are included in this repository:
 
 - Calculator - a program that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers
 - Guess the Number - a game where the user tries to guess a randomly generated number
+- Hangman Game - a game where the player has to guess a word by suggesting letters within a certain number of guesses
 - Rock, Paper, Scissors - a game where the user plays against the computer in a game of Rock, Paper, Scissors
 - Tic Tac Toe - a game where the user plays against the computer in a game of Tic Tac Toe
 - Text Adventure Game - a game where the player makes choices that affect the outcome of the story.
