@@ -12,4 +12,7 @@ This is a simple command-line implementation of the classic Tic Tac Toe game in 
 - Follow the prompts to enter your moves (1-9) when prompted. 
 - The game board will be displayed after each move, and the game will end when a player wins or the board is completely filled.
 
-Enjoy playing!
+## Credits
+This implementation was created by Kalutu. Feel free to use it for educational purposes or as a starting point for your own projects.
+
+
