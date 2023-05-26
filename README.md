@@ -9,7 +9,7 @@ The following projects are included in this repository:
 - Hangman Game - a game where the player has to guess a word by suggesting letters within a certain number of guesses
 - Rock, Paper, Scissors - a game where the user plays against the computer in a game of Rock, Paper, Scissors
 - Tic Tac Toe - a game where the user plays against the computer in a game of Tic Tac Toe
-- Text Adventure Game - a game where the player makes choices that affect the outcome of the story.
+- And More...
 
 Each project includes a detailed description of the problem to be solved, as well as hints and tips to help beginners get started. Additionally, each project includes a complete solution that demonstrates one possible way to solve the problem.
 
